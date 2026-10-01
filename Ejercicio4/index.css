@@ -1,0 +1,19 @@
+h1{
+    color:red;
+}
+.trabajador{
+    background-color: grey;
+}
+/* Los h2 que esten dentro de trabajador*/
+.trabajador > h2 {
+    text-align: center;
+}
+.personales{
+    border-style: solid;
+}
+.estudios{
+    border-style: double;
+}
+.text-subrayado{
+    text-decoration: underline;
+}
